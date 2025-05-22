@@ -3,7 +3,7 @@
 
 A simple REST API for classifying trash images into categories: **paper**, **cardboard**, **glass**, **metal**, and **plastic**.
 
-This API uses a TensorFlow Lite model trained with data from the **[TrashNet dataset](https://www.kaggle.com/datasets/garythung/trashnet)**, designed to be used with devices like an **ESP32-CAM**, or for web and mobile integrations.
+This API uses a TensorFlow Lite model trained with data from the **[TrashNet dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet)**, designed to be used with devices like an **ESP32-CAM**, or for web and mobile integrations.
 
 ---
 

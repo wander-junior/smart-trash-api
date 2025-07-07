@@ -1,4 +1,4 @@
-0 metal
-1 plastic
-2 paper
-3 glass
+metal
+plastic
+paper
+glass
